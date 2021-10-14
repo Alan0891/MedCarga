@@ -17,3 +17,11 @@ Rastreamento de aparelhos instalados
 Relatorios de atividades
 ![med_08](https://user-images.githubusercontent.com/80224977/137233041-3954a123-6674-485d-bbcc-14d3d3c6f7a8.PNG)
 
+Tela do colaborador instalando novos equipamentos
+![med_10](https://user-images.githubusercontent.com/80224977/137233259-f783bf5e-0c0b-474b-a156-4b726dc75bba.PNG)
+
+Formuário de inserção de novo serviço
+![med_11](https://user-images.githubusercontent.com/80224977/137233290-dc4fe82c-5561-46d6-974c-58d107c3fc0d.PNG)
+
+Tela de retirada de equipamentos 
+![med_12](https://user-images.githubusercontent.com/80224977/137233307-c86a5228-d1ec-4afe-b52f-8483f72b3168.PNG)
